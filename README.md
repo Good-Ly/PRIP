@@ -1,7 +1,7 @@
 # PRIP
 PRIP：A Protein-RNA Interface Predictor Based on Semantics of Sequences
 
-![image](https://github.com/Good-Ly/PRIP/blob/master/model.jpg?raw=true)
+![image](https://github.com/Good-Ly/PRIP/blob/master/Fig.%201.%20PRIP%20Model%20framework%20V2.jpg?raw=true)
 
 # installation
 - gensim==3.8.3
