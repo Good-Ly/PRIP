@@ -19,3 +19,6 @@ http://ailab-projects2.ist.psu.edu/RNABindRPlus/data.html
  pyrhon Extracting semantic features.py
 - step 2:
 python PRIP_main.py
+
+# Citation
+Li, Y.; Lyu, J.; Wu, Y.; Liu, Y.; Huang, G., PRIP: A Protein-RNA Interface Predictor Based on Semantics of Sequences. Life, 2022, 12 (2).
